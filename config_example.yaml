@@ -1,0 +1,15 @@
+client_id: "client-id-here"
+client_secret: "client-secret-here"
+password: "account-password-here"
+user_agent: "dont-leave-this-blank"
+username: "username-here"
+subreddit: "subreddit-here"
+toxicity_thresholds:
+  identity_attack: 0.5
+  insult: 1.0
+  obscene: 1.0
+  severe_toxicity: 0.8
+  sexual_explicit: 1.0
+  threat: 1.0
+  toxicity: 1.0
+topic_list: ["child","childhood","girl","boy","kid","children","kids","baby","babies","infant","family","parents","relatives"]
